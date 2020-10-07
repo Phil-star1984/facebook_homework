@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Smart Ninja Homework</title>
+        <meta charset="utf-8">
+        <meta name="Philipp Mulfinger" content="Homework Smart Ninja">
+        <meta name="learn faster" content="Schulung, HTML, Lehrgang">
+    </head>
+
+    <body>
+        <h1><i>FAKEBOOK</i></h1>
+        <label for="search">Search:</label>
+        <input id="search" size="20" maxlength="30" placeholder="Search by name">
+
+        <h2>Philipp Mulfinger</h2>
+
+        <img src="https://www.wuerzburgerleben.de/wp-content/uploads/sites/10/2020/01/TheMillionPainter_Paintings_pink-1067x800.jpg" width="390">
+        <p>
+        <button> Add a friend </button>
+        <p>
+            <strong>City:</strong>
+            Würzburg
+        <p>
+            <strong>Age:</strong>
+            36
+        <p>
+            <strong>Education:</strong>
+            IND Düsseldorf
+        <p>
+            <strong>Hobby:</strong>
+            Painting/Art/Speed Sketching
+        <p>
+            <strong>FB Friends:</strong>
+            200
+        <p>
+            <strong>FB Enemies:</strong>
+            -6
+    </body>
+
+</html>
